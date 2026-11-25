@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[52,)"
+license="MIT"
+
+[[mods]]
+modId="survivalflight"
+version="1.0.0"
+displayName="SurvivalFlight"
+description='''
+SurvivalFlight - Mod de portais e voo.
+'''
